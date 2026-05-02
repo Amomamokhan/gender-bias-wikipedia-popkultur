@@ -1,4 +1,13 @@
-"role","geschlecht","Durchschnitt_KB"
-"Kameramann_frau","Männlich",20.99
-"Regisseur_in","Männlich",28.16
-"Saenger_in","Männlich",26.15
+"role","geschlecht","n","Durchschnitt_KB"
+"Autor_in","Männlich",150,84.58
+"Autor_in","Weiblich",150,36.21
+"Kameramann_frau","Männlich",150,33.17
+"Kameramann_frau","Weiblich",150,8.73
+"Musikproduzent_in","Männlich",150,28.2
+"Musikproduzent_in","Weiblich",150,13.19
+"Regisseur_in","Männlich",150,39.37
+"Regisseur_in","Weiblich",150,16.15
+"Saenger_in","Männlich",150,35.55
+"Saenger_in","Weiblich",150,26.82
+"Schauspieler_in","Männlich",150,43.72
+"Schauspieler_in","Weiblich",150,32.17
